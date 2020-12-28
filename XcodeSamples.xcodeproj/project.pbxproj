@@ -24,6 +24,7 @@
 		C5F25914258A529C007A99B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5F25917258A529C007A99B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C5F25919258A529C007A99B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5F25920258A99CD007A99B1 /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Variables.playground; path = ../Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		C5F258FF258A529B007A99B1 = {
 			isa = PBXGroup;
 			children = (
+				C5F25920258A99CD007A99B1 /* Variables.playground */,
 				C5F2590A258A529B007A99B1 /* XcodeSamples */,
 				C5F25909258A529B007A99B1 /* Products */,
 			);
